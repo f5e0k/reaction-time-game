@@ -1,12 +1,17 @@
-# React + Vite
+# ⚡ Reaction Time Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive **Reaction Time Game** built using **React** and **vanilla CSS**. This app measures how quickly you can respond to a visual signal and records your best reaction times.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🟢 Random delay before the “Go” signal
+- 🖱️ Measures accurate click reaction time in milliseconds
+- ❌ Handles early clicks with warning
+- 🏆 Shows last 5 attempts and highlights your best time
+- 📱 Fully responsive for desktop & mobile
+- 🎨 Minimal UI using CSS (no Tailwind or UI libraries)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
